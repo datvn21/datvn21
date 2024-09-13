@@ -20,7 +20,7 @@
 
 ###
 
-<h6 align="center">**Xin Chào!<br>안녕하새요!**</h6>
+<h6 align="center"><strong>Xin Chào!<br>안녕하새요!</strong></h6>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">🥸 I'm **Dinh Tien Dat**<br>🧙‍♂️ I'm a student at Ton Duc Thang University, majoring in Software Engineering.</p>
+<p align="left">🥸 I'm <strong>Dinh Tien Dat</strong>strong><br>🧙‍♂️ I'm a student at Ton Duc Thang University, majoring in Software Engineering.</p>
 
 ###
 
@@ -40,7 +40,7 @@
 ###
 
 <img align="left" height="200" src="https://68.media.tumblr.com/b6cfc66c18eeee4efe638be7cb93da81/tumblr_niz5dsF9gV1rw3w54o3_500.gif"  />
-
+<p>&nbsp;</p>
 
 ###
 
