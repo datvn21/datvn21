@@ -16,7 +16,7 @@
 
 ###
 
-<h1 align="center">What's up bro!</h1>
+<h2 align="center">What's up bro!</h2>
 
 ###
 
@@ -30,17 +30,18 @@
 
 ###
 
-<p align="left">🥸 I'm <strong>Dinh Tien Dat</strong>strong><br>🧙‍♂️ I'm a student at Ton Duc Thang University, majoring in Software Engineering.</p>
+<p align="left">🥸 I'm <strong>Dinh Tien Dat</strong><br>🧙‍♂️ I'm a student at Ton Duc Thang University, majoring in Software Engineering.</p>
 
 ###
 
 <br clear="both">
 
 <h3 align="left">🛠 Language and tools</h3>
+
+
 ###
 
 <img align="left" height="200" src="https://68.media.tumblr.com/b6cfc66c18eeee4efe638be7cb93da81/tumblr_niz5dsF9gV1rw3w54o3_500.gif"  />
-<p>&nbsp;</p>
 
 ###
 
