@@ -20,15 +20,17 @@
 
 ###
 
-<h6 align="center">Xin Chào!<br>안녕하새요!</h6>
+<h6 align="center">**Xin Chào!<br>안녕하새요!**</h6>
 
 ###
+
+<br clear="both">
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">🥸 I'm Dinh Tien Dat<br>🧙‍♂️ I'm a student at Ton Duc Thang University, majoring in Software Engineering.</p>
+<p align="left">🥸 I'm **Dinh Tien Dat**<br>🧙‍♂️ I'm a student at Ton Duc Thang University, majoring in Software Engineering.</p>
 
 ###
 
