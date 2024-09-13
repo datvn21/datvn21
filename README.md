@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="center">What's up bro!</h2>
+<h3 align="center">What's up bro!</h3>
 
 ###
 
