@@ -1,4 +1,4 @@
-<img align="right" height="200" src="https://64.media.tumblr.com/e74929ac273c39fe2bdf0ebcdd3dd6ec/187c53579b390559-15/s540x810/65188bd45f643227d0cb5fc1d128c6efb7144980.gif"  />
+<img style="border-radius:10px" align="right" height="200" src="https://64.media.tumblr.com/e74929ac273c39fe2bdf0ebcdd3dd6ec/187c53579b390559-15/s540x810/65188bd45f643227d0cb5fc1d128c6efb7144980.gif"  />
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-<img align="left" height="200" src="https://68.media.tumblr.com/b6cfc66c18eeee4efe638be7cb93da81/tumblr_niz5dsF9gV1rw3w54o3_500.gif"  />
+<img style="border-radius:10px" align="left" height="200" src="https://68.media.tumblr.com/b6cfc66c18eeee4efe638be7cb93da81/tumblr_niz5dsF9gV1rw3w54o3_500.gif"  />
 
 ###
 
