@@ -1,4 +1,4 @@
-<img style="border-radius:10px" align="center" height="500" src="https://i.ibb.co/5x02J1M/2151660510.jpg"  />
+
 
 <img style="border-radius:10px" align="right" height="200" src="https://64.media.tumblr.com/e74929ac273c39fe2bdf0ebcdd3dd6ec/187c53579b390559-15/s540x810/65188bd45f643227d0cb5fc1d128c6efb7144980.gif"  />
 
