@@ -30,11 +30,12 @@ def glyphs(lines: list[str], class_name: str, shadow: bool = False) -> str:
                 continue
 
             x = start_x + col * CHAR_WIDTH
-            delay = -(((row * 17) + (col * 7)) % 37) / 10
-            duration = 7.0 + (((row * 5) + col) % 12) / 10
+            should_flicker = ((row * 11) + (col * 5)) % 12 in (0, 3, 5, 8, 10)
+            delay = -(((row * 17) + (col * 7)) % 73) / 10
+            duration = 8.0 + (((row * 5) + col) % 16) / 10
             style = ""
 
-            if not shadow:
+            if not shadow and should_flicker:
                 style = f' style="animation-delay:{delay:.1f}s;animation-duration:{duration:.1f}s"'
 
             rendered.append(
@@ -68,7 +69,12 @@ def build_svg() -> str:
 
     .ascii {{
       fill: #0f172a;
-      animation: flicker 7.5s steps(1, end) infinite;
+    }}
+
+    .ascii[style] {{
+      animation-name: flicker;
+      animation-timing-function: steps(1, end);
+      animation-iteration-count: infinite;
     }}
 
     @media (prefers-color-scheme: dark) {{
@@ -78,14 +84,14 @@ def build_svg() -> str:
 
     @keyframes flicker {{
       0%, 100% {{ opacity: .92; }}
-      8% {{ opacity: .7; }}
+      8% {{ opacity: .76; }}
       9% {{ opacity: 1; }}
-      12% {{ opacity: .78; }}
+      12% {{ opacity: .84; }}
       13% {{ opacity: .96; }}
       44% {{ opacity: .88; }}
-      45% {{ opacity: .62; fill: #0ea5e9; }}
+      45% {{ opacity: .72; fill: #0ea5e9; }}
       46% {{ opacity: .98; }}
-      72% {{ opacity: .82; }}
+      72% {{ opacity: .88; }}
       73% {{ opacity: 1; }}
     }}
   </style>
