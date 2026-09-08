@@ -1,0 +1,29 @@
+name: Generate space shooter
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 2
+
+      - name: Generate GitHub space shooter
+        uses: czl9707/gh-space-shooter@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: datvn21
+          output-path: assets/github-space-shooter.gif
+          strategy: random
+          fps: 30
+          commit-message: "chore: update github space shooter"

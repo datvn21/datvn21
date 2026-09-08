@@ -1,0 +1,9 @@
+<svg width="152" height="44" viewBox="0 0 152 44" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Website</title>
+  <rect x="0.5" y="0.5" width="151" height="43" rx="10" fill="#111827" stroke="#253044"/>
+  <rect x="1" y="1" width="150" height="42" rx="9.5" fill="#38BDF8" fill-opacity=".04"/>
+  <g transform="translate(14 10) scale(1)" fill="#38BDF8">
+    <path d="m12 1.608 12 20.784H0Z"/>
+  </g>
+  <text x="48" y="28" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800" letter-spacing="2">WEBSITE</text>
+</svg>

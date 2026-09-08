@@ -1,84 +1,60 @@
-
-
-<img style="border-radius:10px" align="right" height="200" src="https://64.media.tumblr.com/e74929ac273c39fe2bdf0ebcdd3dd6ec/187c53579b390559-15/s540x810/65188bd45f643227d0cb5fc1d128c6efb7144980.gif"  />
-
-###
-
 <div align="center">
-  <a href="https://www.facebook.com/whojsdat/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <img src="./assets/name-banner.svg" width="100%" alt="Dinh Tien Dat" />
+
+  <p>
+    <strong>What's up bro!</strong><br />
+    <sub>Xin Chào! - 안녕하새요!</sub>
+  </p>
+
+  <a href="https://t.me/whojsdat" target="_blank">
+    <img src="./assets/badge-telegram.svg" alt="Telegram" />
   </a>
-  <a href="https://www.instagram.com/whojsdat/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="mailto:dinhtiendat0201@gmail.com" target="_blank">
+    <img src="./assets/badge-email.svg" alt="Email" />
   </a>
-  <a href="@whojsdat" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  <a href="https://whojsdat.dev" target="_blank">
+    <img src="./assets/badge-website.svg" alt="Website" />
+  </a>
+
+  <br />
+
+  <a href="https://aisq.dev/members/datdt" target="_blank">
+    <img src="https://aisq.dev/badges/initiator-2026.svg" alt="AIAI Initiator 2026" />
   </a>
 </div>
 
-###
+---
 
-<h3 align="center">What's up bro!</h3>
+### `<About me />`
 
-###
+- Software Engineering student at Ton Duc Thang University, based in Ho Chi Minh City, Vietnam.
+- Backend-focused Full Stack Developer interested in scalable backend architecture, distributed systems, and reliable software engineering.
+- I have worked with microservices, asynchronous processing pipelines, REST APIs, and AI-powered applications using RAG and LLM integrations.
+- Some things I have built include a scientific research management platform, a news aggregation system, an online judge for DSA/OOP courses, and a journaling app called Single.
+- I like building web apps, game ideas, and small products that feel useful.
 
-<h6 align="center"><strong>Xin Chào!<br>안녕하새요!</strong></h6>
+### `<Current focus />`
 
-###
+- Building backend systems with TypeScript, Node.js, Express.js, FastAPI, Go, REST APIs, and microservices.
+- Working on AI/LLM features with RAG, LangChain, Gemini/OpenAI APIs, document processing, and background workers.
+- Improving database design and data pipelines with MongoDB, PostgreSQL, Firebase, and near real-time aggregation.
+- Practicing deployment and infrastructure with Docker, Nginx, Cloudflare, Linux, AWS EC2, and Oracle Cloud.
+- Shipping product-facing apps with React, Next.js, React Native, Expo, Tailwind CSS, and Playwright testing.
 
-<br clear="both">
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">🥸 I'm <strong>Dinh Tien Dat</strong><br>🧙‍♂️ I'm a student at Ton Duc Thang University, majoring in Software Engineering.</p>
-
-###
-
-<br clear="both">
-
-<h3 align="left">🛠 Language and tools</h3>
-
-
-###
-
-<img style="border-radius:10px" align="left" height="200" src="https://68.media.tumblr.com/b6cfc66c18eeee4efe638be7cb93da81/tumblr_niz5dsF9gV1rw3w54o3_500.gif"  />
-
-###
+### `<Tech stack />`
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,python,go,nodejs,fastapi,spring,react,nextjs,tailwind,mongodb,postgres,firebase,docker,nginx,cloudflare,aws,linux,git,github,figma,vscode&theme=dark&perline=7" alt="My skills" />
+  </a>
 </div>
 
-###
+### `<GitHub activity />`
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img src="./assets/github-space-shooter.gif" alt="GitHub space shooter" />
 </div>
-
-###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <strong>Thanks for visiting. Have a good day!</strong>
 </div>
-
-###

@@ -1,0 +1,16 @@
+<svg width="210" height="38" viewBox="0 0 210 38" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="tech-stack">
+  <style>
+    .box { fill: #1f2937; }
+    .text { fill: #f8fafc; }
+    .chev { stroke: #f8fafc; }
+
+    @media (prefers-color-scheme: light) {
+      .box { fill: #111827; }
+      .text { fill: #f8fafc; }
+      .chev { stroke: #f8fafc; }
+    }
+  </style>
+  <rect x="0" y="0" width="210" height="38" rx="8" class="box"/>
+  <path d="M13 12L20 19L13 26" class="chev" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="38" y="26" class="text" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">tech-stack</text>
+</svg>
