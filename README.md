@@ -25,7 +25,7 @@
 
 ---
 
-### `<About me />`
+### `<About_me />`
 
 - Software Engineering student at Ton Duc Thang University, based in Ho Chi Minh City, Vietnam.
 - Backend-focused Full Stack Developer interested in scalable backend architecture, distributed systems, and reliable software engineering.
@@ -33,7 +33,7 @@
 - Some things I have built include a scientific research management platform, a news aggregation system, an online judge for DSA/OOP courses, and a journaling app called Single.
 - I like building web apps, game ideas, and small products that feel useful.
 
-### `<Current focus />`
+### `<Current_focus />`
 
 - Building backend systems with TypeScript, Node.js, Express.js, FastAPI, Go, REST APIs, and microservices.
 - Working on AI/LLM features with RAG, LangChain, Gemini/OpenAI APIs, document processing, and background workers.
@@ -41,7 +41,7 @@
 - Practicing deployment and infrastructure with Docker, Nginx, Cloudflare, Linux, AWS EC2, and Oracle Cloud.
 - Shipping product-facing apps with React, Next.js, React Native, Expo, Tailwind CSS, and Playwright testing.
 
-### `<Tech stack />`
+### `<Tech_stack />`
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -49,7 +49,7 @@
   </a>
 </div>
 
-### `<GitHub activity />`
+### `<GitHub_activity />`
 
 <div align="center">
   <img src="./assets/github-space-shooter.gif" alt="GitHub space shooter" />
