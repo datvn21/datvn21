@@ -31,7 +31,7 @@ def glyphs(lines: list[str], class_name: str, shadow: bool = False) -> str:
 
             x = start_x + col * CHAR_WIDTH
             delay = -(((row * 17) + (col * 7)) % 37) / 10
-            duration = 4.2 + (((row * 5) + col) % 9) / 10
+            duration = 7.0 + (((row * 5) + col) % 12) / 10
             style = ""
 
             if not shadow:
@@ -68,7 +68,7 @@ def build_svg() -> str:
 
     .ascii {{
       fill: #0f172a;
-      animation: flicker 4.8s steps(1, end) infinite;
+      animation: flicker 7.5s steps(1, end) infinite;
     }}
 
     @media (prefers-color-scheme: dark) {{
@@ -78,14 +78,14 @@ def build_svg() -> str:
 
     @keyframes flicker {{
       0%, 100% {{ opacity: .92; }}
-      8% {{ opacity: .45; }}
+      8% {{ opacity: .7; }}
       9% {{ opacity: 1; }}
-      12% {{ opacity: .68; }}
+      12% {{ opacity: .78; }}
       13% {{ opacity: .96; }}
       44% {{ opacity: .88; }}
-      45% {{ opacity: .28; fill: #0ea5e9; }}
+      45% {{ opacity: .62; fill: #0ea5e9; }}
       46% {{ opacity: .98; }}
-      72% {{ opacity: .75; }}
+      72% {{ opacity: .82; }}
       73% {{ opacity: 1; }}
     }}
   </style>
