@@ -45,7 +45,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,python,go,nodejs,fastapi,spring,react,nextjs,tailwind,mongodb,postgres,firebase,docker,nginx,cloudflare,aws,linux,git,github,figma,vscode&theme=dark&perline=7" alt="My skills" />
+    <img src="https://skillicons.dev/icons?i=ts,python,go,nodejs,fastapi,spring,react,nextjs,tailwind,mongodb,postgres,prisma, firebase,docker,nginx,cloudflare,aws,linux,git,github,figma&theme=dark&perline=7" alt="My skills" />
   </a>
 </div>
 
