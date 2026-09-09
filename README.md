@@ -12,7 +12,7 @@
   <a href="mailto:dinhtiendat0201@gmail.com" target="_blank">
     <img src="./assets/badge-email.svg" height="38" alt="Email" />
   </a>
-  <a href="https://whojsdat.dev" target="_blank">
+  <a href="https://whojsdat.dev/about" target="_blank">
     <img src="./assets/badge-website.svg" height="38" alt="Website" />
   </a>
 
