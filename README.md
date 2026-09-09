@@ -7,19 +7,19 @@
   </p>
 
   <a href="https://t.me/whojsdat" target="_blank">
-    <img src="./assets/badge-telegram.svg" alt="Telegram" />
+    <img src="./assets/badge-telegram.svg" height="38" alt="Telegram" />
   </a>
   <a href="mailto:dinhtiendat0201@gmail.com" target="_blank">
-    <img src="./assets/badge-email.svg" alt="Email" />
+    <img src="./assets/badge-email.svg" height="38" alt="Email" />
   </a>
   <a href="https://whojsdat.dev" target="_blank">
-    <img src="./assets/badge-website.svg" alt="Website" />
+    <img src="./assets/badge-website.svg" height="38" alt="Website" />
   </a>
 
   <br />
 
   <a href="https://aisq.dev/members/datdt" target="_blank">
-    <img src="https://aisq.dev/badges/initiator-2026.svg" alt="AIAI Initiator 2026" />
+    <img src="https://aisq.dev/badges/initiator-2026.svg" height="38" alt="AIAI Initiator 2026" />
   </a>
 </div>
 
