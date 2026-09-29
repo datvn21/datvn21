@@ -41,7 +41,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,java,python,nodejs,nestjs,fastapi,react,nextjs,flutter,tailwind,postgres,mongodb,redis,docker,nginx,grafana,cloudflare,aws,linux,git,github,figma&theme=dark&perline=7" alt="My skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,java,python,nodejs,nestjs,fastapi,react,nextjs,flutter,tailwind,postgres,mongodb,redis,docker,nginx,grafana,cloudflare,aws,linux,git&theme=dark&perline=7" alt="My skills" />
   </a>
 </div>
 
