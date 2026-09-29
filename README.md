@@ -27,25 +27,25 @@
 
 ### `<About_me />`
 
-- Software Engineering student at Ton Duc Thang University, based in Ho Chi Minh City, Vietnam.
-- Backend-focused Full Stack Developer interested in scalable backend architecture, distributed systems, and reliable software engineering.
-- I have worked with microservices, asynchronous processing pipelines, REST APIs, and AI-powered applications using RAG and LLM integrations.
-- Some things I have built include a scientific research management platform, a news aggregation system, an online judge for DSA/OOP courses, and a journaling app called Single.
+- Third-year Software Engineering student at Ton Duc Thang University (CGPA: 8.21/10), based in Ho Chi Minh City, Vietnam.
+- Backend-focused Full Stack Developer interested in backend systems, DevOps, and reliable software engineering.
+- Key Member – Software Engineer / DevOps at AIAI Laboratory since November 2025, working on research software, integrations, deployment, and monitoring.
+- Built an online judge used by 200+ students across 800+ sessions, an AI-powered research management system, and a real-time event check-in platform.
 - I like building web apps, game ideas, and small products that feel useful.
 
 ### `<Current_focus />`
 
-- Building backend systems with TypeScript, Node.js, Express.js, FastAPI, Go, REST APIs, and microservices.
-- Working on AI/LLM features with RAG, LangChain, Gemini/OpenAI APIs, document processing, and background workers.
-- Improving database design and data pipelines with MongoDB, PostgreSQL, Firebase, and near real-time aggregation.
-- Practicing deployment and infrastructure with Docker, Nginx, Cloudflare, Linux, AWS EC2, and Oracle Cloud.
-- Shipping product-facing apps with React, Next.js, React Native, Expo, Tailwind CSS, and Playwright testing.
+- Building backend systems with TypeScript, Node.js, NestJS, FastAPI, REST APIs, and microservices.
+- Working on AI features with RAG, LangChain, OpenAI/Gemini APIs, and asynchronous document processing.
+- Using PostgreSQL, MongoDB, Redis, and Qdrant for application data and AI workflows.
+- Managing deployments and monitoring with Docker, Nginx, Grafana, Linux, Cloudflare, AWS EC2, and Oracle Cloud.
+- Building web, desktop, and mobile apps with React, Next.js, React Native, Flutter, and Tauri.
 
 ### `<Tech_stack />`
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,python,go,nodejs,fastapi,spring,react,nextjs,tailwind,mongodb,postgres,prisma,firebase,docker,nginx,cloudflare,aws,linux,git,github,figma&theme=dark&perline=7" alt="My skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,java,python,nodejs,nestjs,fastapi,react,nextjs,flutter,tailwind,postgres,mongodb,redis,docker,nginx,grafana,cloudflare,aws,linux,git,github,figma&theme=dark&perline=7" alt="My skills" />
   </a>
 </div>
 
