@@ -27,19 +27,15 @@
 
 ### `<About_me />`
 
-- Third-year Software Engineering student at Ton Duc Thang University (CGPA: 8.21/10), based in Ho Chi Minh City, Vietnam.
-- Backend-focused Full Stack Developer interested in backend systems, DevOps, and reliable software engineering.
-- Key Member – Software Engineer / DevOps at AIAI Laboratory since November 2025, working on research software, integrations, deployment, and monitoring.
-- Built an online judge used by 200+ students across 800+ sessions, an AI-powered research management system, and a real-time event check-in platform.
-- I like building web apps, game ideas, and small products that feel useful.
+- Third-year Software Engineering student at Ton Duc Thang University, based in Ho Chi Minh City.
+- Software Engineer / DevOps at AIAI Laboratory, building and deploying software for AI research.
+- I build reliable backend systems and useful products, from AI research tools to an online judge used by 200+ students.
 
 ### `<Current_focus />`
 
-- Building backend systems with TypeScript, Node.js, NestJS, FastAPI, REST APIs, and microservices.
-- Working on AI features with RAG, LangChain, OpenAI/Gemini APIs, and asynchronous document processing.
-- Using PostgreSQL, MongoDB, Redis, and Qdrant for application data and AI workflows.
-- Managing deployments and monitoring with Docker, Nginx, Grafana, Linux, Cloudflare, AWS EC2, and Oracle Cloud.
-- Building web, desktop, and mobile apps with React, Next.js, React Native, Flutter, and Tauri.
+- Designing backend services and real-time systems with TypeScript, NestJS, and FastAPI.
+- Building AI workflows with RAG, LLMs, and asynchronous document processing.
+- Shipping and monitoring production apps with Docker, Linux, and cloud infrastructure.
 
 ### `<Tech_stack />`
 
